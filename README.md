@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HoJun%20Lee&fontSize=90&fontColor=3c3c3c)   
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YunJu%20Lee&fontSize=90&fontColor=3c3c3c)   
 
 <div align="center">
   <h2>🛠️ Tech Stack 🛠️</h2>
